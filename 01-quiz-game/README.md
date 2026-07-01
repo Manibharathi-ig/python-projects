@@ -46,14 +46,6 @@ correct!
 You got 5 answers correct.
 You got 100%.
 
-
-Future improvements
-. Add multiple-choice questions(A, B , C , D)
-. Accept multiple valid answers
-. Use loops to reduce repeated code
-. Store questions in a list or dictionary
-. Add difficulty levels
-
 Author 
 Mani Bharathi
 
