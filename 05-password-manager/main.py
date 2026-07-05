@@ -29,7 +29,7 @@ def add():
     name = input("Account name ")
     pwd = input("password ")
     with open('password.txt','a') as f:
-        f.write(name + "|" + str(fer.encrypt(pwd.encode()).decode()) + "\n" )
+        f.write(name + "|" + fer.encrypt(pwd.encode()).decode() + "\n" )
        
 
 def view():
