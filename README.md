@@ -16,8 +16,12 @@ Welcome to my Python Projects repository! This repository showcases my journey o
 ##  Projects
 
 | No. | Project | Description | Status |
-|-----:|---------|-------------|:------:|
-| 01 | Quiz Game | Command-line quiz game with score tracking | ✅ |
+|-----:|------------------------|---------------------------------------------------------------|:------:|
+| 01 | Data Science Quiz Game | Command-line quiz game with score tracking | ✅ |
+| 02 | Number Guessing Game | Guess a randomly generated number with hints and attempt tracking | ✅ |
+| 03 | Rock Paper Scissors Game | Play Rock, Paper, Scissors against the computer with score tracking |✅ |
+| 04 | Text Adventure Game | Interactive story-based game with multiple decision paths and endings | ✅ |
+| 05 | Password Manager | Securely store and retrieve encrypted passwords using file handling and Fernet encryption | ✅ |
 
 
 *This table will be updated as I complete more projects.*
